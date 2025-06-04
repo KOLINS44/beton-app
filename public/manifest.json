@@ -1,0 +1,8 @@
+{
+  "name": "Бетон заявки",
+  "short_name": "Бетон",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Приём заявок на бетон"
+}
